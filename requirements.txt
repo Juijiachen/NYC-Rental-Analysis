@@ -1,0 +1,19 @@
+The packages we use in this project:
+1. pandas
+2. matplotlib
+3. json
+4. pathlib
+5. urllib.parse
+6. geoalchemy2
+7. geopandas
+8. maplotlib
+9. requests
+10. shapely
+11. pyproj
+12. functools
+13. tqdm
+14. concurrent
+15. psycopg2
+16. os
+17. sqlachemy
+18. basemap
