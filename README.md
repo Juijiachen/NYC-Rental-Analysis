@@ -7,7 +7,7 @@ Key Phases of Our Analysis:
 
 **1. Data Preprocessing**:
 
-      We manually download the zip code and Zillow data, saving them in a directory named 'data' alongside our notebook. And we use Python code to download the 311 and tree datasets, utilizing the earlier set-up Application Token. For data cleaning and filtering, we employ pandas and geopandas to load and refine the datasets. This includes removing unnecessary columns, retaining only those essential for project questions, eliminating invalid data points, normalizing column names and data types, and standardizing Spatial Reference Identifiers (SRID) for any geometric data.
+We manually download the zip code and Zillow data and use Python code to download the 311 and tree datasets. For data cleaning and filtering, we employ pandas and geopandas to load and refine the datasets. This includes removing unnecessary columns, retaining only those essential for project questions, eliminating invalid data points, normalizing column names and data types, and standardizing Spatial Reference Identifiers (SRID) for any geometric data.
 
 **2. Storing Data**:
 
